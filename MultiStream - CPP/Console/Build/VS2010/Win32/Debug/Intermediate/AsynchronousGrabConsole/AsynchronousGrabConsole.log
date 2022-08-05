@@ -1,0 +1,21 @@
+﻿Build started 27/06/2018 9:51:19 AM.
+     1>Project "C:\Users\schhina\Documents\Allied Vision_Play\Vimba_2.1.3_Play\VimbaCPP_Examples\MultiStream - CPP\Console\Build\VS2010\AsynchronousGrabConsole.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         AsynchronousGrabConsole.vcxproj -> C:\Users\schhina\Documents\Allied Vision_Play\Vimba_2.1.3_Play\VimbaCPP_Examples\MultiStream - CPP\Console\Build\VS2010\Win32\Debug\AsynchronousGrabConsole.exe
+       PostBuildEvent:
+         
+         xcopy "C:\Program Files\Allied Vision\Vimba_2.1\\VimbaCPP\Bin\Win32\*.*" "C:\Users\schhina\Documents\Allied Vision_Play\Vimba_2.1.3_Play\VimbaCPP_Examples\MultiStream - CPP\Console\Build\VS2010\Win32\Debug\" /Y
+         xcopy "C:\Program Files\Allied Vision\Vimba_2.1\\VimbaImageTransform\Bin\Win32\*.*" "C:\Users\schhina\Documents\Allied Vision_Play\Vimba_2.1.3_Play\VimbaCPP_Examples\MultiStream - CPP\Console\Build\VS2010\Win32\Debug\" /Y
+         
+         :VCEnd
+         C:\Program Files\Allied Vision\Vimba_2.1\\VimbaCPP\Bin\Win32\VimbaC.dll
+         C:\Program Files\Allied Vision\Vimba_2.1\\VimbaCPP\Bin\Win32\VimbaCPP.dll
+         C:\Program Files\Allied Vision\Vimba_2.1\\VimbaCPP\Bin\Win32\VimbaCPPd.dll
+         3 File(s) copied
+         C:\Program Files\Allied Vision\Vimba_2.1\\VimbaImageTransform\Bin\Win32\VimbaImageTransform.dll
+         1 File(s) copied
+     1>Done Building Project "C:\Users\schhina\Documents\Allied Vision_Play\Vimba_2.1.3_Play\VimbaCPP_Examples\MultiStream - CPP\Console\Build\VS2010\AsynchronousGrabConsole.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.44
